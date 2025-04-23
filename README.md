@@ -18,7 +18,7 @@ You can find me on LinkedIn, [Twitter] or [GitHub].
 
 #### Project 1 Title
  - Project 1 Summary
- ![Project Image](/images/project_image_1.jpeg)
+ ![Project Image](images/project_image_1.jpg)
  - Project 1 Report
    
 ***
