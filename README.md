@@ -1,3 +1,4 @@
+![banner Image goes here](Link to Banner Image)
 
 # Mr. John 
 Contact Info: [fill in]
